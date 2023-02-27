@@ -43,6 +43,7 @@ def calcula_media_faturamento():
 
 faturamento_medio = calcula_media_faturamento()
 
+
 # somatório de dias que superam o faturamento médio
 dias_que_superam_media = 0
 for i in lista_sem_zeros:
